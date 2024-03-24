@@ -1,0 +1,23 @@
+{
+  "name": "studder",
+  "version": "0.0.1",
+  "description": "A simple sleep operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draeder/studder.git"
+  },
+  "keywords": [
+    "sleep",
+    "delay"
+  ],
+  "author": "Daniel Raeder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/draeder/studder/issues"
+  },
+  "homepage": "https://github.com/draeder/studder#readme"
+}
